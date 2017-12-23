@@ -1,4 +1,4 @@
-# Laboratorio 2, Máquinas de aprendizaje
+# Laboratorio 3, Máquinas de aprendizaje
 
 ## Integrantes:<br>
 Francisco Olivares - francisco.olivars.14@sansano.usm.cl <br>
